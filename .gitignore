@@ -1,0 +1,12 @@
+# Hugo default output directories
+public/
+resources/
+.hugo_build.lock
+
+# Local development cache
+.sass-cache/
+.DS_Store
+Thumbs.db
+
+# OS generated files
+*.log

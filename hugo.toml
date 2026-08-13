@@ -20,7 +20,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     fontSize = "14pt"
-    pageWidth = "750px"
+    pageWidth = "900px"
     avatarSize = "90px"
     colorBlack = "#222222"
     colorRed = "#4035dc"
